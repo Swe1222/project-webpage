@@ -1,0 +1,204 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="project.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<center><h1 class="h">
+<span>B</span>
+<span>U</span>
+<span>G</span>
+<span>H</span>
+<span>E</span>
+<span>A</span>
+<span>D</span>
+<span>S</span>
+<span> - </span>
+<span>S</span>
+<span>N</span>
+<span>A</span>
+<span>P</span>
+<span>S</span>
+<span>H</span>
+<span>O</span>
+<span>T</span>
+<span>S</span>
+</h1></center><br>
+<div class="one">
+<a href="https://unsplash.com ">
+<button><img src="C:\Users\HP\Documents\aesthetic.jpg" class="img-circle">AESTHETIC</button>
+</a><a href="https://unsplash.com">
+<button><img src="C:\Users\HP\Documents\portrait.jpg" class="img-circle">PORTRAIT</button>
+</a><a href="https://www.pexels.com">
+<button><img src="C:\Users\HP\Documents\landscape.jpeg" class="img-circle">LANDSCAPE</button>
+
+</a><a href="https://www.shutterstock.com ">
+<button><img src="C:\Users\HP\Documents\bg1.jpg" class="img-circle">NATURE</button>
+</a><a href="https://unsplash.com">
+<button><img src="C:\Users\HP\Documents\vintage.jpg" class="img-circle">VINTAGE</button>
+
+</a><a href="https://unsplash.com"><button class="bu"><img src="C:\Users\HP\Documents\retro.jpg" class="img-circle">RETRO</button>
+<button class="bu"><img src="C:\Users\HP\Documents\neon.jpg" class="img-circle">NEON</button>
+
+</a><a href="https://pixabay.com"><button class="bu"><img src="C:\Users\HP\Documents\pastel.jpg" class="img-circle">PASTEL</button></a><br><br><br></div>
+<div class="b">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Documents\neon.jpg" class="c"></div>
+<div class="centered">NEON</div>
+ <div class="flip-card-back">
+      <div><h1>NEON</h1>
+           <p>Neon is a noble gas. It's colorless and has no smell.
+Neon glows a reddish-orange color when put in a tube.
+Neon is one of the rarest elements on Earth.
+Scientists Morris W. Travers and Sir William Ramsay discovered Neon in 1898.
+Neon is commonly used in lights that are known as neon signs.</p>
+ </div>
+</div></div></div><br>
+<div class="bb">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\pastel1.jpg" class="c"></div>
+<div class="centereda">PASTEL</div>
+ <div class="flip-card-back">
+     <div> <p>PASTEL</p> 
+      <p>A pastel (US: /pæˈstɛl/) is an art medium in the form of a stick, consisting of powdered pigment and a binder. The pigments used in pastels are similar to those used to produce some other colored visual arts media, such as oil paints; the binder is of a neutral hue and low saturation.
+</p></div>
+</div></div></div>
+<div class="bc">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\portrait1.jpg" class="c"></div>
+<div class="centeredb">PORTRAIT</div>
+ <div class="flip-card-back">
+      <div>
+      <p>PORTRAIT</p> 
+      <p>Portrait format basically refers to when the frame is in the vertical display, which means the side edges are longer than the bottom and top edges. 
+As a result, the subject appears wider and taller. 
+If you position the camera vertically at 90 degrees, you would be taking portrait images</p></div>
+</div></div></div>
+<div class="bd">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Documents\211.jpg" class="c"></div>
+<div class="centeredc">LANDSCAPE</div>
+ <div class="flip-card-back">
+      <div>
+      <p>LANDSCAPE</p> 
+      <p>Landscape photography is a type of photography that captures the beauty of nature,
+ bringing the viewers into the scenery, setting, and mood in these outdoor locations. 
+ Landscape photography captures the beauty of the great outdoors.</p></div>
+</div></div></div><br><br>
+<div class="be">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Documents\vintage.jpg" class="c"></div>
+<div class="centeredd">VINTAGE</div>
+ <div class="flip-card-back">
+      <div>
+      <p>VINTAGE</p> 
+      <p>Vintage photography refers to any photography shot with a non-digital camera, 
+such as an analog camera with a 35 mm film.
+ However, vintage photography is shot with modern equipment and processed to look at an 
+aging process or material in modern times.</p></div>
+</div></div></div>
+
+<div class="bf">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Documents\retro.jpg" class="c"></div>
+<div class="centerede">RETRO</div>
+ <div class="flip-card-back">
+      <div>
+      <p>RETRO</p> 
+      <p>Retro Photo Prints are printed on high-quality photo paper 
+and are available in a glossy finish with instant-camera-like white borders.</p></div>
+</div></div></div>
+
+<div class="bg">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\a1.jpg" class="c"></div>
+<div class="centeredf">AESTHETIC</div>
+ <div class="flip-card-back">
+      <div>
+      <p>AESTHETIC</p> 
+      <p>Just as the term “beauty” can be subjective, “aesthetic” can be distinguished as something that is immediately visually pleasing to a viewer. Aesthetic photos aim to utilize visual characteristics
+ such as color, composition, lighting, and subject matter to create a visually pleasing photograph.</p></div>
+</div></div></div><br><br>
+
+<div class="bh">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Documents\flower12.jpg" class="c"></div>
+<div class="centeredg">NATURE</div>
+ <div class="flip-card-back">
+      <div>
+      <p>NATURE</p> 
+      <p>Nature photography is a wide range of photography taken outdoors and devoted to displaying natural elements such as landscapes, wildlife, plants, and close-ups of natural scenes and textures.</p></div>
+</div></div></div><br><br>
+<div class="bi">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\PR1.jfif" class="c"></div>
+<div class="centeredf">ANIMATION</div>
+ <div class="flip-card-back">
+      <div>
+      <p>ANIMATION</p> 
+      <p>Animation is a method in which figures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery (CGI).</p></div>
+</div></div></div>
+<div class="bj">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\PR2.jfif" class="c"></div>
+<div class="centeredr">HALLOWEEN</div>
+ <div class="flip-card-back">
+      <div>
+      <p>HALLOWEEN</p> 
+      <p>"Jack o'lantern" comes from the Irish legend of Stingy Jack. ...
+Candy corn was originally called Chicken Feed. ...
+Trick-or-treating comes from "souling" ...
+The most lit jack o'lanterns on display is 30,581. ...
+Halloween folklore is full of fortune-telling and magic.
+</p></div>
+</div></div></div>
+<div class="bk">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\PR3.jfif" class="c"></div>
+<div class="centeredj">GLITTER</div>
+ <div class="flip-card-back">
+      <div>
+      <p>GLITTER</p> 
+      <p>She shows that glitter as a symbol not only means euphoria and performance, but also protest and defiance.</p></div>
+</div></div></div>
+<div class="bl">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+<img src="C:\Users\HP\Downloads\PR4.jfif " class="c"></div>
+<div class="centeredk">AMAZING</div>
+ <div class="flip-card-back">
+      <div>
+      <p>AMAZING</p> 
+      <p>There are many elements in photography that come together to make an image be considered “good”. Elements like lighting, the rule of thirds, lines, shapes, texture, patterns, and color all work well together to add interest and a great deal of composition in photographs</p></div>
+</div></div></div>
+</body>
+</html>
+
+
+
